@@ -1,7 +1,0 @@
-[INFO] 12-08-2025 12:22:54 [main] [utilities.BrowserManager] - null
-[INFO] 12-08-2025 12:22:59 [main] [TC18_AddToCartFromRecommendedItems] - Starting test: Add To Cart From Recommended Items
-[INFO] 12-08-2025 12:23:00 [main] [TC01_RegisterUser] -  home page is visible successfully
-[INFO] 12-08-2025 12:23:00 [main] [TC18_AddToCartFromRecommendedItems] - Checking if 'RECOMMENDED ITEMS' section is visible
-[INFO] 12-08-2025 12:23:00 [main] [TC18_AddToCartFromRecommendedItems] - Expected section visibility: true, Actual: true
-[INFO] 12-08-2025 12:23:00 [main] [TC18_AddToCartFromRecommendedItems] - Clicking on Blue Top from Recommended Items
-[INFO] 12-08-2025 12:23:02 [main] [TC18_AddToCartFromRecommendedItems] - Expected product name: Blue Top, Actual: Blue Top

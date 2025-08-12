@@ -1,4 +1,0 @@
-[INFO] 08-08-2025 17:37:21 [main] [Listeners.ITest] - Test Case loginTest started
-[INFO] 08-08-2025 17:37:21 [main] [TC01_RegisterUser] -  home page is visible successfully
-[INFO] 08-08-2025 17:37:25 [main] [TC02_ValidLogin] - Logged to your account successfully
-[INFO] 08-08-2025 17:37:25 [main] [Listeners.ITest] - Test Case loginTest passed

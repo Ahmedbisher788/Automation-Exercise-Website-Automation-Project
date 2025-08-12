@@ -1,5 +1,0 @@
-[INFO] 03-08-2025 22:34:34 [main] [Listeners.ITest] - Test Case registerUser started
-[INFO] 03-08-2025 22:34:34 [main] [TC01_RegisterUser] -  home page is visible successfully
-[INFO] 03-08-2025 22:34:39 [main] [TC01_RegisterUser] - fill account info successfully
-[INFO] 03-08-2025 22:34:50 [main] [TC01_RegisterUser] -  account deleted successfully
-[INFO] 03-08-2025 22:34:50 [main] [Listeners.ITest] - Test Case registerUser passed
