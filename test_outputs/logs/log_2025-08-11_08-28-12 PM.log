@@ -1,0 +1,3 @@
+[INFO] 11-08-2025 20:28:12 [main] [utilities.BrowserManager] - null
+[INFO] 11-08-2025 20:28:21 [main] [TC01_RegisterUser] -  home page is visible successfully
+[INFO] 11-08-2025 20:28:26 [main] [TC02_ValidLogin] - Logged to your account successfully

@@ -1,0 +1,1 @@
+{"uuid":"50462939-a921-4d8d-9255-5e8dfac37907","name":"TC19_DownloadInvoiceAfterPurchaseOrder","children":["24880cf4-1f4b-4bcd-a7b3-628f1ca1887f"],"befores":[],"afters":[{"name":"tearDown","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1754990883115,"stop":1754990883351}],"start":1754990856871,"stop":1754990883357}

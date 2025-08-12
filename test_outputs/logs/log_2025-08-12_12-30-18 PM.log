@@ -1,0 +1,6 @@
+[INFO] 12-08-2025 12:30:18 [main] [utilities.BrowserManager] - null
+[INFO] 12-08-2025 12:30:24 [main] [TC01_RegisterUser] -  home page is visible successfully
+[INFO] 12-08-2025 12:30:24 [main] [TC20_VerifyScrollingUsingArrowButton] - Checking if 'SUBSCRIPTION' section is visible on the homepage...
+[INFO] 12-08-2025 12:30:24 [main] [TC20_VerifyScrollingUsingArrowButton] - Subscription visibility: true
+[INFO] 12-08-2025 12:30:24 [main] [TC20_VerifyScrollingUsingArrowButton] - 'SUBSCRIPTION' section is visible successfully.
+[INFO] 12-08-2025 12:30:24 [main] [TC20_VerifyScrollingUsingArrowButton] - Clicking 'Scroll Up' button and verifying Automation Exercise image visibility...

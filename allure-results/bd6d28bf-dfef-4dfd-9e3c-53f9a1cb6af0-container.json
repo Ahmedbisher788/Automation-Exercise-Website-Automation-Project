@@ -1,0 +1,1 @@
+{"uuid":"bd6d28bf-dfef-4dfd-9e3c-53f9a1cb6af0","name":"TC08_VerifyAllProductsAndProductDetailPage","children":["05e5e58b-ebb0-45de-9e3e-b16c07505c88"],"befores":[],"afters":[{"name":"tearDown","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1754990227706,"stop":1754990227864}],"start":1754990217679,"stop":1754990227869}

@@ -1,0 +1,4 @@
+[INFO] 11-08-2025 19:18:13 [TestNG-test-Test-1] [utilities.BrowserManager] - null
+[INFO] 11-08-2025 19:18:19 [TestNG-test-Test-1] [TC01_RegisterUser] -  home page is visible successfully
+[INFO] 11-08-2025 19:18:24 [TestNG-test-Test-1] [TC01_RegisterUser] - fill account info successfully
+[INFO] 11-08-2025 19:18:32 [TestNG-test-Test-1] [TC01_RegisterUser] -  account deleted successfully

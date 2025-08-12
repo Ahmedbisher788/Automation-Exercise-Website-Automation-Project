@@ -1,0 +1,4 @@
+[INFO] 11-08-2025 15:43:15 [main] [utilities.BrowserManager] - null
+[INFO] 11-08-2025 15:43:39 [main] [TC01_RegisterUser] -  home page is visible successfully
+[INFO] 11-08-2025 15:43:44 [main] [TC01_RegisterUser] - fill account info successfully
+[INFO] 11-08-2025 15:44:03 [main] [TC01_RegisterUser] -  account deleted successfully
